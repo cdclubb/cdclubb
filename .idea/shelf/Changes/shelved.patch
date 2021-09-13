@@ -1,0 +1,24 @@
+Index: .idea/libraries/KotlinJavaRuntime.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/KotlinJavaRuntime.xml b/.idea/libraries/KotlinJavaRuntime.xml
+new file mode 100644
+--- /dev/null	(date 1631513894960)
++++ b/.idea/libraries/KotlinJavaRuntime.xml	(date 1631513894960)
+@@ -0,0 +1,14 @@
++
++<library name="KotlinJavaRuntime">
++  <CLASSES><![CDATA[
++    ]]><root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/"></root>
++    <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
++    <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
++  </CLASSES>
++  <JAVADOC />
++  <SOURCES>
++    <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
++    <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
++    <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
++  </SOURCES>
++</library>
